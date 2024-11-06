@@ -13,6 +13,8 @@ Requires the following fflags to be enabled:
 
 - - -
 
+(Because type functions can't currently be exported and imported into other files, all of the source code and the tests are co-located.)
+
 # Documentation below
 
 
